@@ -1,0 +1,12 @@
+# Archivos de sistema
+.DS_Store
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos temporales de sistemas
+*.log
+*.tmp
+
+# Archivos de entorno
+.env
